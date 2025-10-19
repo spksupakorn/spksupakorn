@@ -4,6 +4,8 @@
 
 I'm a passionate backend developer with a strong focus on building scalable, high-performance systems. I love crafting robust APIs, architecting real-time applications, and diving deep into cloud infrastructure.
 
+![Developer in Space GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/1*9NwaOKbQO4CevYtDtIwH-A.gif)
+
 ---
 
 ## 🚀 About Me
