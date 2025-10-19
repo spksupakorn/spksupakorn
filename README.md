@@ -48,6 +48,7 @@ I'm a passionate backend developer with a strong focus on building scalable, hig
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -64,6 +65,10 @@ I'm a passionate backend developer with a strong focus on building scalable, hig
 
 ### AI & Machine Learning
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### OpenAPI
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![API Docs](https://img.shields.io/badge/API%20Docs-RapiDoc-orange?style=for-the-badge)
 
 ### Currently Learning 🌱
 - **Rust** - Systems programming and performance
