@@ -46,6 +46,11 @@ I'm a passionate backend developer with a strong focus on building scalable, hig
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### OpenAPI & API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![API Docs](https://img.shields.io/badge/API%20Docs-RapiDoc-orange?style=for-the-badge)
+
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
@@ -63,12 +68,12 @@ I'm a passionate backend developer with a strong focus on building scalable, hig
 ### Web Server
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+### Message Queue & Distribution System
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
 ### AI & Machine Learning
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### OpenAPI
-![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![API Docs](https://img.shields.io/badge/API%20Docs-RapiDoc-orange?style=for-the-badge)
 
 ### Currently Learning 🌱
 - **Rust** - Systems programming and performance
